@@ -1,0 +1,2 @@
+rootProject.name = "Questionaire Maker"
+include ':app'
